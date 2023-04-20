@@ -6,7 +6,7 @@ _"Trybe is a school of the future for anyone who wants to improve their life and
 
 The program has over 1,500 hours of classroom and online classes, covers introduction to software development, front-end, back-end, computer science, software engineering, agile methodologies, and behavioral skills.
 
-## Fundamentals of Web Development ✅
+## Fundamentals of Web Development 
 
 ##### Block 1: Introduction - Unix & Shell
 
@@ -16,11 +16,11 @@ The program has over 1,500 hours of classroom and online classes, covers introdu
 
 ##### Block 2: Introduction to HTML & CSS
 
-- [ ] 2-1: _HTML & CSS - Page Structures_
-- [ ] 2-2: _HTML & CSS - Getting Started with CSS_
-- [ ] 2-3: _HTML & CSS - Selectors and positioning_
-- [ ] 2-4: _HTML Semantic_
-- [ ] 2-5: _Project - Lessons Learned_
+- [ x ] 2-1: _HTML & CSS - Page Structures_
+- [ v ] 2-2: _HTML & CSS - Getting Started with CSS_
+- [x] 2-3: _HTML & CSS - Selectors and positioning_
+- [x] 2-4: _HTML Semantic_
+- [v] 2-5: _Project - Lessons Learned_
 
 ##### Block 3: Introduction to JavaScript
 
