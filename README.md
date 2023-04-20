@@ -1,1 +1,1 @@
-# trybe-exercises
+# My exercise repository
