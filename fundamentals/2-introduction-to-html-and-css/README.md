@@ -1,5 +1,5 @@
-# Section - HTML AND CSS
+# Section - HTML & CSS
 
-This block belongs to the `fundamentals' module of [Trybe's](https://www.betrybe.com/) course.  Here I learned about the main HTML tags to create the structure of web pages, i learned how to use CSS to stylize these tags using different ways to select the HTML elements, and then i saw how to change the positioning of the elements in the page and how some specific properties change the dimensions of the elements, lastly i saw about the meaning that each HTML element carries and how this impacts the interpretation of the page content by robots and other internet elements.
+This section belongs to the `fundamentals' module of [Trybe's](https://www.betrybe.com/) course.  Here I learned about the main HTML tags to create the structure of web pages, i learned how to use CSS to stylize these tags using different ways to select the HTML elements, and then i saw how to change the positioning of the elements in the page and how some specific properties change the dimensions of the elements, lastly i saw about the meaning that each HTML element carries and how this impacts the interpretation of the page content by robots and other internet elements.
 
-Here you will find the exercises that i developed to fix the knowledge i acquired throughout this block. i also developed the project at the end of the block to evaluate everything i had learned, you can access it [here](addLinkDoProjetoFuturamente).
+Here you will find the exercises that i developed to fix the knowledge i acquired throughout this section. i also developed the project at the end of the section to evaluate everything i had learned, you can access it [here](addLinkDoProjetoFuturamente).

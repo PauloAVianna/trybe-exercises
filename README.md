@@ -8,13 +8,13 @@ The program has over 1,500 hours of classroom and online classes, covers introdu
 
 ## Fundamentals of Web Development 
 
-##### Block 1: Introduction - Unix & Shell ✅
+##### Block 1: UNIX, SHELL & GIT ✅
 
 - [x] 1-1: _Unix & Shell_ 
 - [x] 1-2: _Git - What is it and what is it for?_
 - [x] 1-3: _Git & GitHub - Understanding commands_
 
-##### Block 2: Introduction to HTML & CSS
+##### Block 2: HTML & CSS
 
 - [ ] 2-1: _HTML & CSS - Page Structures_
 - [ ] 2-2: _HTML & CSS - Getting Started with CSS_
