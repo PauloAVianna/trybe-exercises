@@ -16,15 +16,15 @@ The program has over 1,500 hours of classroom and online classes, covers introdu
 
 ##### Block 2: HTML & CSS
 
-- [ ] 2-1: _HTML & CSS - Page Structures_
-- [ ] 2-2: _HTML & CSS - Getting Started with CSS_
-- [ ] 2-3: _HTML & CSS - Selectors and positioning_
-- [ ] 2-4: _HTML Semantic_
-- [ ] 2-5: _Project - Lessons Learned_
+- [x] 2-1: _HTML & CSS - Page Structures_
+- [x] 2-2: _HTML & CSS - Getting Started with CSS_
+- [x] 2-3: _HTML & CSS - Selectors and positioning_
+- [x] 2-4: _HTML Semantic_
+- [x] 2-5: _Project - Lessons Learned_
 
 ##### Block 3: Introduction to JavaScript
 
-- [ ] 3-1: _JavaScript - First steps_
+- [x] 3-1: _JavaScript - First steps_
 - [ ] 3-2: _JavaScript - Array and For loop_
 - [ ] 3-3: _JavaScript - Functions_
 - [ ] 3-4: _JavaScript - Objects_
