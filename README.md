@@ -14,7 +14,7 @@ The program has over 1,500 hours of classroom and online classes, covers introdu
 - [x] 1-2: _Git - What is it and what is it for?_
 - [x] 1-3: _Git & GitHub - Understanding commands_
 
-##### Block 2: HTML & CSS
+##### Block 2: HTML & CSS ✅
 
 - [x] 2-1: _HTML & CSS - Page Structures_
 - [x] 2-2: _HTML & CSS - Getting Started with CSS_
@@ -25,8 +25,8 @@ The program has over 1,500 hours of classroom and online classes, covers introdu
 ##### Block 3: Introduction to JavaScript
 
 - [x] 3-1: _JavaScript - First steps_
-- [ ] 3-2: _JavaScript - Array and For loop_
-- [ ] 3-3: _JavaScript - Functions_
+- [x] 3-2: _JavaScript - Array and For loop_
+- [x] 3-3: _JavaScript - Functions_
 - [ ] 3-4: _JavaScript - Objects_
 - [ ] 3-5: _JavaScript ES6 - let, const, arrow functions and template literals_
 - [ ] 3-6: _Project - Playground Functions_
