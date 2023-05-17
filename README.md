@@ -36,7 +36,7 @@ The program has over 1,500 hours of classroom and online classes, covers introdu
 - [x] 4-1: _JavaScript - DOM and selectors_
 - [x] 4-2: _JavaScript - Working with elements_
 - [x] 4-3: _JavaScript - Events_
-- [ ] 4-4: _JavaScript - Web Storage_
+- [x] 4-4: _JavaScript - Web Storage_
 - [ ] 4-5: _Project - Pixels Art_
 - [ ] 4-6: _Bonus Project_
 
