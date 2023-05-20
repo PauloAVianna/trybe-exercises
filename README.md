@@ -31,18 +31,18 @@ The program has over 1,500 hours of classroom and online classes, covers introdu
 - [x] 3-5: _JavaScript ES6 - let, const, arrow functions and template literals_
 - [x] 3-6: _Project - Playground Functions_
 
-##### Block 4: JavaScript: DOM, Events, and Web Storage
+##### Block 4: JavaScript: DOM, Events, and Web Storage ✅
 
 - [x] 4-1: _JavaScript - DOM and selectors_
 - [x] 4-2: _JavaScript - Working with elements_
 - [x] 4-3: _JavaScript - Events_
 - [x] 4-4: _JavaScript - Web Storage_
-- [ ] 4-5: _Project - Pixels Art_
-- [ ] 4-6: _Bonus Project_
+- [x] 4-5: _Project - Pixels Art_
+- [x] 4-6: _Bonus Project_
 
 ##### Block 5: HTML and CSS: Forms, Flexbox and Responsive
 
-- [ ] 5-1: _HTML & CSS - Forms_
+- [x] 5-1: _HTML & CSS - Forms_
 - [ ] 5-2: _JavaScript libraries and CSS frameworks_
 - [ ] 5-3: _CSS Flexbox - Part 1_
 - [ ] 5-4: _CSS Flexbox - Part 2_
