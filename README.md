@@ -45,7 +45,7 @@ The program has over 1,500 hours of classroom and online classes, covers introdu
 - [x] 5-1: _HTML & CSS - Forms_
 - [x] 5-2: _JavaScript libraries and CSS frameworks_
 - [x] 5-3: _CSS Flexbox - Part 1_
-- [ ] 5-4: _CSS Flexbox - Part 2_
+- [x] 5-4: _CSS Flexbox - Part 2_
 - [ ] 5-5: _Responsive CSS - Mobile First_
 - [ ] 5-6: _Project - Trybewarts_
 
