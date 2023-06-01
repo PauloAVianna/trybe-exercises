@@ -52,7 +52,7 @@ The program has over 1,500 hours of classroom and online classes, covers introdu
 ##### Block 6: Introduction to JavaScript ES6 and Unit Tests
 
 - [x] 6-1: _Exception flow and object handling_
-- [ ] 6-2: _First Steps in Jest_
+- [x] 6-2: _First Steps in Jest_
 - [ ] 6-3: _Matchers and code coverage_
 - [ ] 6-4: _Project - JavaScript Unit Testing_
 
