@@ -49,12 +49,12 @@ The program has over 1,500 hours of classroom and online classes, covers introdu
 - [x] 5-5: _Responsive CSS - Mobile First_
 - [x] 5-6: _Project - Trybewarts_
 
-##### Block 6: Introduction to JavaScript ES6 and Unit Tests
+##### Block 6: Introduction to JavaScript ES6 and Unit Tests ✅
 
 - [x] 6-1: _Exception flow and object handling_
 - [x] 6-2: _First Steps in Jest_
-- [ ] 6-3: _Matchers and code coverage_
-- [ ] 6-4: _Project - JavaScript Unit Testing_
+- [x] 6-3: _Matchers and code coverage_
+- [x] 6-4: _Project - JavaScript Unit Testing_
 
 ##### Block 7: JavaScript ES6 Higher Order Functions
 
